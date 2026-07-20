@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JuiceBoxForYou
-- 👀 I’m interested in becoming a full-stack developer.
-- 🌱 I’m currently learning JavaScript.
+- 👋 Hi, I’m @LogunSanchez
+- 👀 I’m interested in working in the AWS Cloud area.
+- 🌱 I’m currently learning Python and Linux.
 - 💞️ I’m looking to collaborate on any project that I am confident in. (In the future)
-- 📫 How to reach me ...
+- 📫 How to reach me- email: sanchezlogun116@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
